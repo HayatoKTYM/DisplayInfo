@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<moduleContext>
+
+  <conf>
+    <moduleName>display</moduleName>
+    <description>Display Module</description>
+  </conf>
+
+  <remote name="GENERATOR">
+    <group>TEST</group>
+    <role>GEN</role>
+  </remote>
+
+</moduleContext>
